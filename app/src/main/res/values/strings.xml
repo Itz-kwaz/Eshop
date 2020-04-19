@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ushop</string>
+    <string name="hello">Hello</string>
+    <string name="there">There</string>
+    <string name="button_text">Start Shopping</string>
+    <string name="sign_up">Sign Up and let\'s get started</string>
+    <string name="exclamation">!</string>
+    <string name="name">Name</string>
+    <string name="address">House Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="grocery_list">Grocery List</string>
+    <string name="checkout">CHECKOUT</string>
+    <string name="total">Total:</string>
+
+    <string name="banana">Banana</string>
+    <string name="avocado">Avocado</string>
+    <string name="pepper">Pepper</string>
+    <string name="eggs">Eggs</string>
+    <string name="meat">Meat</string>
+    <string name="milk">Milk</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="tomato">Tomato</string>
+    <string name="wine">Red Wine</string>
+    <string name="water">Water</string>
+    <string name="orange">Orange</string>
+    <string name="peanut">Peanut</string>
+    <string name="apple">Apple</string>
+
+</resources>
